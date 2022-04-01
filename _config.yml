@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CB-EAP test site
+title: CollectionBuilder CSV
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: testing out CollectionBuilder
+tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV template used for EAP collections test."
+description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest;balkan war;bulgaria
+keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: rm
+author: CollectionBuilder
 
 ##########
 # COLLECTION SETTINGS
@@ -50,9 +50,9 @@ metadata: cb-eap894
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Endangered Archives Programme"
-organization-link: https://eap.bl.uk
-organization-logo-banner: hhttps://eap.bl.uk/themes/custom/eap/images/bl_logo_100.gif
+organization-name: "Center for Digital Inquiry and Learning (CDIL)"
+organization-link: https://cdil.lib.uidaho.edu/
+organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
 organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
@@ -61,13 +61,13 @@ organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 # leave these blank or comment out to NOT include google code
 # if present, used to add analytics during "production" build only
 # google-analytics-id: "UA-74844011-1"
- google-cse-id: "b7771eef8a8846672"
+# google-cse-id: "002151703305773322890:1pu3smhw1t8"
 
 ##########
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
- noindex: true 
+# noindex: true 
 
 ##########
 # BUILD SETTINGS 
