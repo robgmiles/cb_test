@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: https://images.eap.bl.uk/EAP103/EAP103_1_1_25/30.jp2/full/full/0/default.jpg
+featured-image: https://images.eap.bl.uk/EAP264/EAP264_1_8_18/1.jp2/full/full/0/default.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 12em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
