@@ -1,7 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-Full EAP,https://eap.bl.uk/search,/browse.html
+EAP,,
+Full EAP,https://eap.bl.uk/search,EAP
+EAP home,https://eap.bl.uk,EAP
 Subjects,/subjects.html,
 Locations,/locations.html,
 Map,/map.html,
