@@ -12,7 +12,7 @@ credits: false
 
 {% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About this website
 
 This demo collection features items from the British Library's [Endangered Archives Programme](https://eap.bl.uk).
  
@@ -22,7 +22,7 @@ Photographs from the EAP collections:
 - EAP755: Argentina
 - EAP894: Bulgaria
 
-{% include feature/image.html objectid="dhttps://images.eap.bl.uk/EAP755/EAP755_1_1_28/4.jp2/full/pct:20/0/default.jpg" width="75" %}
+{% include feature/image.html objectid="http://127.0.0.1:4000/items/eap755_1_1_28_6.html" width="75" %}
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
