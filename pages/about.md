@@ -38,3 +38,5 @@ Photographs from the EAP collections:
 {% include feature/image.html objectid="eap894_1_9_50;eap755_1_1_28_2;eap755_1_1_1_2" %}
 
 {% include feature/image.html objectid="https://images.eap.bl.uk/EAP001/EAP001_16_1/1.jp2/full/full/0/default.jpg;https://images.eap.bl.uk/EAP001/EAP001_16_1/16.jp2/full/full/0/default.jpg" caption="EAP001;EAP001" link="https://eap.bl.uk/archive-file/EAP001-16-1;https://eap.bl.uk/archive-file/EAP001-16-1" alt="Link back to EAP website;Link back to EAP website" %}
+
+{% include feature/timelinejs.html %}
