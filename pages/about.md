@@ -8,7 +8,7 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://images.eap.bl.uk/EAP755/EAP755_1_1_28/5.jp2/full/pct:50/0/default.jpg" %} 
+{% include feature/jumbotron.html objectid="https://images.eap.bl.uk/EAP001/EAP001_1_1/1.jp2/full/pct:40/0/default.jpg" %} 
 
 
 
@@ -29,7 +29,3 @@ Photographs from the EAP collections:
 {% include feature/button.html text="Full EAP website" link="https://eap.bl.uk" color="success" %}
 
 {% include feature/modal.html button="Modal that displays other text as a popup" title="Message popup:" text="More info given here" color="primary" %}
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-
