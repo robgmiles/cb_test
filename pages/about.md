@@ -24,6 +24,8 @@ Photographs from the EAP collections:
 
 {% include feature/image.html objectid="http://127.0.0.1:4000/items/eap755_1_1_28_6.html" width="75" %}
 
+{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="https://images.eap.bl.uk/EAP755/EAP755_1_1_28/3.jp2/full/pct:20/0/default.jpg" width="25" centered=true %}
+
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
