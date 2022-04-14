@@ -29,3 +29,5 @@ Photographs from the EAP collections:
 {% include feature/button.html text="Full EAP website" link="https://eap.bl.uk" color="success" %}
 
 {% include feature/modal.html button="Modal that displays other text as a popup" title="Message popup:" text="More info given here" color="primary" %}
+
+{% include feature/image.html objectid="example_003" width="75" caption="an image" %}
