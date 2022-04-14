@@ -10,7 +10,7 @@ credits: false
 
 {% include feature/jumbotron.html objectid="https://images.eap.bl.uk/EAP755/EAP755_1_1_28/5.jp2/full/pct:50/0/default.jpg" %} 
 
-# {% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
 
 ## About CollectionBuilder CSV
 
@@ -22,6 +22,7 @@ Photographs from the EAP collections:
 - EAP755: Argentina
 - EAP894: Bulgaria
 
+{% include feature/image.html objectid="dhttps://images.eap.bl.uk/EAP755/EAP755_1_1_28/4.jp2/full/pct:20/0/default.jpg" width="75" %}
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
