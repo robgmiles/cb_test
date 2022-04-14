@@ -24,7 +24,11 @@ Photographs from the EAP collections:
 
 {% include feature/image.html objectid="http://127.0.0.1:4000/items/eap755_1_1_28_6.html" width="75" %}
 
-{% include feature/card.html header="This is a Card" text="The card features an image from the collection as a cap" objectid="https://images.eap.bl.uk/EAP755/EAP755_1_1_28/3.jp2/full/pct:20/0/default.jpg" width="25" centered=true %}
+{% include feature/card.html header="This is a Card" text="text description underneath" objectid="https://images.eap.bl.uk/EAP755/EAP755_1_1_28/3.jp2/full/pct:20/0/default.jpg" width="25" centered=true %}
+
+{% include feature/button.html text="Full EAP website" link="https://eap.bl.uk" color="success" %}
+
+{% include feature/modal.html button="Modal that displays other text as a popup" title="when clicked:" text="More info given here" color="primary" %}
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
