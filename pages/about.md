@@ -10,7 +10,7 @@ credits: false
 
 {% include feature/jumbotron.html objectid="https://images.eap.bl.uk/EAP755/EAP755_1_1_28/5.jp2/full/pct:50/0/default.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+
 
 ## About this website
 
@@ -28,9 +28,8 @@ Photographs from the EAP collections:
 
 {% include feature/button.html text="Full EAP website" link="https://eap.bl.uk" color="success" %}
 
-{% include feature/modal.html button="Modal that displays other text as a popup" title="when clicked:" text="More info given here" color="primary" %}
+{% include feature/modal.html button="Modal that displays other text as a popup" title="Message popup:" text="More info given here" color="primary" %}
 
 {% include feature/image.html objectid="demo_001" width="75" %} 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
