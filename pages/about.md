@@ -10,7 +10,7 @@ credits: false
 
 {% include feature/jumbotron.html objectid="https://images.eap.bl.uk/EAP755/EAP755_1_1_28/5.jp2/full/pct:50/0/default.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+# {% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
 
 ## About CollectionBuilder CSV
 
