@@ -50,8 +50,8 @@ metadata: cb-eap894
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-# organization-name: "EAP"
-# organization-link: https://eap.bl.uk
+organization-name: "Endangered Archives Programme"
+organization-link: https://eap.bl.uk
 organization-logo-banner: https://www.gouldgenealogy.com/wp-content/uploads/2013/12/logo-British-Library.jpg
 organization-logo-nav: https://www.gouldgenealogy.com/wp-content/uploads/2013/12/logo-British-Library.jpg
 
