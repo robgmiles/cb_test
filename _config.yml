@@ -50,10 +50,10 @@ metadata: cb-eap894
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "EAP"
-organization-link: https://eap.bl.uk
-organization-logo-banner: https://eap.bl.uk/themes/custom/eap/images/bl_logo_100.gif
-organization-logo-nav: https://eap.bl.uk/themes/custom/eap/images/bl_logo_100.gif
+# organization-name: "EAP"
+# organization-link: https://eap.bl.uk
+# organization-logo-banner: https://eap.bl.uk/themes/custom/eap/images/bl_logo_100.gif
+# organization-logo-nav: https://eap.bl.uk/themes/custom/eap/images/bl_logo_100.gif
 
 ##########
 # GOOGLE SERVICES [optional!]
